@@ -23,6 +23,6 @@ The design is written in **Verilog HDL** and is suitable for **FPGA-based DSP ap
 
 ---
 
-## Project contents
+## 📂Project contents
 - **Documents** showing the full discrebtion of the specs, the testbench flow that is used and the results of the simulation of the Vavido, QuestaSim and QuestaLint
 - **verilog files** showing the design 
